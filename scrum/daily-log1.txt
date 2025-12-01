@@ -1,0 +1,7 @@
+● ¿Qué hice ayer?
+----------------
+● ¿Qué haré hoy?
+Hoy haré la configuración del proyecto con Vite, instalación de TailwindCSS y React Router. 
+Tambien crearé la estructura base de carpetas, el repositorio, el dashboard de backog y la asignacion de tickets.
+● ¿Qué impedimentos enfrenté?
+-----------------------------
